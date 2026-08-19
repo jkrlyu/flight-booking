@@ -1,0 +1,98 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background-image: url(https://images8.alphacoders.com/500/thumb-1920-500413.jpg);
+    background-size: cover;
+}
+nav {
+    background-color: #071a2b;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    margin: 20px;
+    color:rgb(172, 208, 231)
+}
+nav a:hover {
+    color:rgb(242, 247, 244)
+
+}
+
+h1 {
+    color: rgb(247, 246, 242);
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-size: 30px;
+    color: rgb(181, 229, 233);
+    font-style: oblique;
+    font-family: roboto;
+}
+
+
+button {
+    padding: 8px 15px;
+}
+form {
+
+    margin-top: 20px;
+    font-style: oblique;
+    font-family: roboto;
+    color:rgb(59, 125, 158);
+    font-size: 25px;
+  
+}
+#searchform {
+    width:500px;
+    margin: auto;
+    padding:20px;
+    border-radius: 20px;
+
+}
+table {
+    width: 90%;
+    height: 300px;
+    margin: auto;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    color: #03144d;
+    font-size: larger;
+    font-weight: 600;
+    background-color: #cddeee;
+}
+#searchform {
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+
+.search {
+    padding: 10px;
+    width: 200px;
+    background-color: rgb(249, 253, 253);
+}
+
+
+
+
+.search input {
+    border: none;
+    width: 100%;
+    font-size: 16px;
+}
+.container {
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid rgb(208, 216, 243);
+    background-color: #081033;
+}
+footer {
+    text-align: left;
+    margin-top: 50px;
+    padding: 20px;
+}
