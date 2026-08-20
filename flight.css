@@ -3,6 +3,7 @@ body {
     text-align: center;
     background-image: url(https://images8.alphacoders.com/500/thumb-1920-500413.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
 }
 nav {
     background-color: #071a2b;
